@@ -35,7 +35,7 @@ You will also see any lint errors in the console.
    - Firebase for deployment
    
 ### React.js
-   - react -redux
+   - react - redux
    
 ### Firebase
    - I have made use of firebase's firestore for storing my backend data of users and stories.
