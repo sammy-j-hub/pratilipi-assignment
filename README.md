@@ -40,6 +40,6 @@ You will also see any lint errors in the console.
 ### Firebase
    - I have made use of firebase's firestore for storing my backend data of users and stories.
    - Users table maintains the users who have signed up on the website, by storing the username and an array of story's IDs he has visited.
-   - Stories table contains all the stories listed on the website. It stores the stories with their unique ID, each ID has the 'Content','title','total_read','cur_read' and 'Created At'
+   - Stories table contains all the stories listed on the website. It stores the stories with their unique ID, each ID has the 'Content','title','total_read','curr_read' and 'Created At'
    - I'm making use of firebase authentication for signIn and signUp purposes.
    
